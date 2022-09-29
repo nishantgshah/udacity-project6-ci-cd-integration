@@ -8,6 +8,8 @@
 
 ## Architectural Diagram
 
+![Extract](./assets/images/Project6-Architecture.png)
+
 ## Instructions for running the Python project
 
 ## Continuous Integration
@@ -51,3 +53,10 @@
 ## Video URL
 
 ## Future Enhancement
+
+## Environment
+
+- Python 3.9.14
+- Azure Cloud Shell
+- Azure Web App
+- Azure Devops
