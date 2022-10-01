@@ -16,6 +16,9 @@
 
 ### Clone and build an application inside of Azure Cloud Shell
 
+- Generate SSH key using
+    `ssh-keygen -t rsa`
+
 - Project cloned into Azure Cloud Shell Screenshot
 
 ![Extract](./assets/images/0.png)
@@ -24,6 +27,7 @@
 
 ![Extract](./assets/images/1.png)
 ![Extract](./assets/images/2.png)
+![Extract](./assets/images/2.1.png)
 
 ### Conduct a test run on an application in Azure Cloud Shell
 
