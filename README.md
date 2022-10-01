@@ -36,6 +36,7 @@
 ### GitHub Actions to test and lint a project while writing code
 
 ![Extract](./assets/images/4.png)
+![Extract](./assets/images/4.1.png)
 
 [![Python application test with Github Actions](https://github.com/nishantgshah/udacity-project6-ci-cd-integration/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/nishantgshah/udacity-project6-ci-cd-integration/actions/workflows/pythonapp.yml)
 
